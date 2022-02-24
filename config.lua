@@ -4,8 +4,8 @@
 Config = {}
 
 Config.Doctor = 0 -- Minimum Amount of EMS to work
-Config.Price = 100
-Config.ReviveTime = 2000  --in msec
+Config.Price = 500
+Config.ReviveTime = 20000  --in msec
 
 
 Config.mdLocations={
